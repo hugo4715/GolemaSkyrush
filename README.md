@@ -1,1 +1,3 @@
-"# SkyRush" 
+# SkyRush
+
+Plugin Skyrush de GolemaMC
